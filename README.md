@@ -1,2 +1,3 @@
-#Kris Szczurowski
+# Kris Szczurowski\
+
 Playground for Java practice.
