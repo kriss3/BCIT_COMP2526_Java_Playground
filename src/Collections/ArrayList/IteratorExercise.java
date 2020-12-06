@@ -29,7 +29,7 @@ public final class IteratorExercise {
             final Collection<String> collection2) {
         Iterator<String> iterator = collection1.iterator();
         while (iterator.hasNext()) {
-            if (collection1.contains(iterator.next())) {
+            if (collection2.contains(iterator.next())) {
                 iterator.remove();
             }
         }
