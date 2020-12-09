@@ -1,4 +1,4 @@
-package Java_101;
+package Java_101.Arrays;
 
 import java.text.NumberFormat;
 

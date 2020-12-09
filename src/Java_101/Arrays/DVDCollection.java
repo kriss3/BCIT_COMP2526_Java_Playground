@@ -1,4 +1,6 @@
-package Java_101;
+package Java_101.Arrays;
+
+import Java_101.Arrays.DVD;
 
 import java.text.NumberFormat;
 
